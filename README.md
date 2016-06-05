@@ -1,4 +1,4 @@
-# ansible-redis
+# redis Role
 
 Ansible redis role for centos7.
 
